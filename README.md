@@ -1,1 +1,1 @@
-Hosted version brunchify.online
+Hosted version [brunchify.online](https://brunchify.online/)
